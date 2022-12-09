@@ -1,10 +1,10 @@
 # EPTE
-自动py转exe脚本/软件，基于Pyinstaller。
+自动python转exe脚本/软件，基于Pyinstaller。
 
 本程序由保洁PowerJ团队编写。
 作者TG@lck88
 
-EPTE 全称：Easy py to exe
+EPTE 全称：Easy Py To Exe
 
 编写时间：2022.11.13
 版本说明：
